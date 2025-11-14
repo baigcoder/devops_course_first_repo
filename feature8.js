@@ -1,1 +1,1 @@
-console.lgo("feature 8 works")
+console.log("feature 8 works")
